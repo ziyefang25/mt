@@ -1,1 +1,2 @@
 Reinforce for rationale extraction
+run: trainRL.py
