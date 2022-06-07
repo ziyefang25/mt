@@ -1,1 +1,2 @@
 hierarchical attention networks
+run: train.py
